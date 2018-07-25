@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TheMovieDb</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="MOVIE_DB_API_KEY">f5888d973f7392b47c556d8a71cddd61</string>
+
+</resources>
